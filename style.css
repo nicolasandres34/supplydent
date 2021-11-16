@@ -153,6 +153,16 @@ header {
    flex-wrap: wrap;
 }
 
+.btn-catalogo{
+    margin-top: 20px;
+    padding: 10px;
+    text-decoration: none;
+    border-color: blue 6px solid;
+    background-color: white;
+    border-radius: 40px;
+    color: rgb(0, 0, 0);
+}
+
 .img-galeria{
     object-fit: cover;
     width: 30%;
@@ -375,7 +385,7 @@ footer{
     }
 
     .img-galeria{
-        width: 95%;
+        width: 48%;
     }
 
     .socialMedia{
